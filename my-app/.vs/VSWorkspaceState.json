@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.expo-shared",
+    "\\assets"
   ],
+  "SelectedNode": "\\App.js",
   "PreviewInSolutionExplorer": false
 }
